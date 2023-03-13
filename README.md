@@ -1,6 +1,6 @@
 # ga4refundR
 
-## R function for ecommerce refunds in GA4.
+## R function for ecommerce refunds in Google Analytics 4.
 Google documentation isn't great for ecommerce refunds.
 There's a lot of trial and error in figuring out exactly how refunds work and the limitations they have.
 
